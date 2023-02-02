@@ -5,7 +5,7 @@ To start project
 npm install
 
 then
-to run project
+to run project to docker container
 
 nodemon server.js
 
